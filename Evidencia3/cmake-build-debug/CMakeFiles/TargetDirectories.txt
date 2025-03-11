@@ -1,0 +1,3 @@
+/Users/fabri/Library/Mobile Documents/com~apple~CloudDocs/Fabri/TEC /TERCER SEMESTRE/progra/Evidencia3/cmake-build-debug/CMakeFiles/Evidencia3.dir
+/Users/fabri/Library/Mobile Documents/com~apple~CloudDocs/Fabri/TEC /TERCER SEMESTRE/progra/Evidencia3/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/fabri/Library/Mobile Documents/com~apple~CloudDocs/Fabri/TEC /TERCER SEMESTRE/progra/Evidencia3/cmake-build-debug/CMakeFiles/rebuild_cache.dir
